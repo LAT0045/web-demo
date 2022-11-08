@@ -1,0 +1,13 @@
+/* #firstHead{
+    color: blue;
+    font-size: 30px;
+} */
+
+:root{
+    --text-color : pink;
+}
+
+#firstHead{
+    color: var(--text-color);
+}
+
